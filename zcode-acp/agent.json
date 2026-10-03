@@ -1,0 +1,34 @@
+{
+  "id": "zcode-acp",
+  "name": "ZCode",
+  "version": "0.1.0",
+  "description": "ACP adapter for the ZCode CLI (z.ai). Runs ZCode sessions — with skills, MCP servers, and browser use — in your repository; one zcode turn per prompt, with session resume and Z.AI OAuth sign-in.",
+  "repository": "https://github.com/Clauber/zcode-acp",
+  "authors": ["Clauber"],
+  "license": "MIT",
+  "license_url": "https://github.com/Clauber/zcode-acp/blob/master/LICENSE",
+  "distribution": {
+    "binary": {
+      "linux-x86_64": {
+        "archive": "https://github.com/Clauber/zcode-acp/releases/download/v0.1.0/zcode-acp-0.1.0.tar.gz",
+        "sha256": "1926845d340835b89af8aa02f6c5362b3006bf553b515926d21945bd91b4062d",
+        "cmd": "./zcode-acp"
+      },
+      "linux-aarch64": {
+        "archive": "https://github.com/Clauber/zcode-acp/releases/download/v0.1.0/zcode-acp-0.1.0.tar.gz",
+        "sha256": "1926845d340835b89af8aa02f6c5362b3006bf553b515926d21945bd91b4062d",
+        "cmd": "./zcode-acp"
+      },
+      "darwin-x86_64": {
+        "archive": "https://github.com/Clauber/zcode-acp/releases/download/v0.1.0/zcode-acp-0.1.0.tar.gz",
+        "sha256": "1926845d340835b89af8aa02f6c5362b3006bf553b515926d21945bd91b4062d",
+        "cmd": "./zcode-acp"
+      },
+      "darwin-aarch64": {
+        "archive": "https://github.com/Clauber/zcode-acp/releases/download/v0.1.0/zcode-acp-0.1.0.tar.gz",
+        "sha256": "1926845d340835b89af8aa02f6c5362b3006bf553b515926d21945bd91b4062d",
+        "cmd": "./zcode-acp"
+      }
+    }
+  }
+}
